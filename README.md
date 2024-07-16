@@ -1,4 +1,4 @@
-# Livraria
+# Literalura
 
 A **Livraria** é uma aplicação desenvolvida em Java 17 que permite a busca e gerenciamento de informações sobre livros e autores, utilizando a API Gutendex para obter dados atualizados. Os dados são armazenados em um banco de dados PostgreSQL, e o gerenciamento é feito através da Java Persistence API (JPA). O projeto foi desenvolvido com a IDE IntelliJ IDEA.
 
